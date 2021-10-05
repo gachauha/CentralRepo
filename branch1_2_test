@@ -1,0 +1,1 @@
+This is to check if we can create one file in branch A and add/commit it in branch B. Then it should list in brnach B only inspite of the fact that it was created in branch A for the first time.
